@@ -30,7 +30,15 @@ freresoeur(Y, Z) :- parent(X, Y), parent(X, Z), Y \= Z.
 
 1.	Paul a-t-il des frères ou des sœurs ? Non, il en a pas
    ![5](https://github.com/user-attachments/assets/dda1ec24-33d9-4b3f-8b22-2541147ed47d)
+
+   Exercice 4 : 
+1.	Trouvez tous les hommes dans la base de données :
+
+   ![6](https://github.com/user-attachments/assets/dbbd7bef-09e7-4527-91bb-c16084af5491)
+
   	
 2.	Recherchez tous les parents de Sophie :
 
    ![7](https://github.com/user-attachments/assets/15734c7a-863e-43b2-8e68-1a50f863a271)
+
+   Testez la règle en posant les requêtes suivantes :
