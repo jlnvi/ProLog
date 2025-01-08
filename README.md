@@ -48,3 +48,11 @@ Exercice 6 :
 
 ![10](https://github.com/user-attachments/assets/695e9be3-0f6f-4ae9-9865-8ac54bf637b8)
 
+Exercice 7 :
+
+present([N|_], N).
+present([_ | Queue], X) :- present(Queue, X).
+
+Posez la question suivante pour trouver si Marie est présente dans la liste contenant pierre, marie et paul
+![11](https://github.com/user-attachments/assets/0a308926-258b-4608-b71e-1b93fc1df8b1)
+
