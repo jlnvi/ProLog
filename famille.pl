@@ -25,5 +25,6 @@ freresoeur(Y, Z) :- parent(X, Y), parent(X, Z), Y \= Z.
 longueur([], 0).
 longueur([_ | Queue], N) :- longueur(Queue, M), N is M + 1.
 
+present([N|_], N).
 present([_ | Queue], X) :- present(Queue, X).
 
