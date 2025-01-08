@@ -60,3 +60,6 @@ Exercice 8 :
  1. et 2.
 ![12](https://github.com/user-attachments/assets/29003426-07f9-4848-81b8-617176489244)
 
+Exercice 9 :
+
+![Capture d'écran 2025-01-08 172057](https://github.com/user-attachments/assets/cf4a8eab-1acf-4340-97ca-dd682cadd2ab)
