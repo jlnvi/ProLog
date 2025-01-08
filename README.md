@@ -40,5 +40,11 @@ freresoeur(Y, Z) :- parent(X, Y), parent(X, Z), Y \= Z.
 2.	Recherchez tous les parents de Sophie :
 
    ![7](https://github.com/user-attachments/assets/15734c7a-863e-43b2-8e68-1a50f863a271)
+Exercice 5:
 
-   Testez la règle en posant les requêtes suivantes :
+![9](https://github.com/user-attachments/assets/a89b7784-e4bf-40f6-93da-080496709be1)
+
+Exercice 6 : 
+
+![10](https://github.com/user-attachments/assets/695e9be3-0f6f-4ae9-9865-8ac54bf637b8)
+
